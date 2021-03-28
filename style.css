@@ -1,0 +1,7 @@
+#card {
+    border-collapse: collapse;
+    text-align: right;
+}
+td {
+    border: solid;
+}
